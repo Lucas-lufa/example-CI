@@ -11,7 +11,6 @@ Ensure you step through this program in an IDE debugger and pdb to understand ho
 board = [[' ' for _ in range(3)] for _ in range(3)]
 
 
-
 def print_board():
     """ Prints playing board to the console 
     
